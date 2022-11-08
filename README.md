@@ -9,7 +9,7 @@ A djnago starter template. If you want to use it just clone it or download zip f
         $ pip install -r requirements.txt
         $ python manage.py makemigrations
         $ python manage.py migrate
-        $ python manage.py runderver
+        $ python manage.py runserver
       
 # How do i change the froject name?<br>
 $ python manage.py renameproject 'old-name' 'new-name'
